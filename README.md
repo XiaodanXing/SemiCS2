@@ -12,6 +12,7 @@ In this work, we propose a novel strategy for medical image synthesis, namely Un
 2. In addition, we devise a **multi-scale multi-task Fréchet Inception Distance (MM-FID)** and **multi-scale multi-task standard deviation (MM-STD)** to harness both fidelity and variety evaluations of synthetic CT images. With multiple analyses on different scales, we could produce stable image quality measurements with high reproducibility. 
 
 Compared with the segmentation mask guided synthesis, our UM-guided synthesis provided high-quality synthetic images with significantly higher fidelity, variety, and utility (p < 0.05 by Wilcoxon Signed Ranked test).
+
 ![flowchart](https://github.com/XiaodanXing/SemiCS2/assets/30890745/1e1b7d2a-402d-436f-b99c-967698847e2a)
 
 
