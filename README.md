@@ -27,4 +27,4 @@ If you find the proposed super-pixel guided synthesis, MM-FID and MM-STD useful,
 
 - Xing, X., Papanastasiou, G., Walsh, S., & Yang, G. (2023). Less is More: Unsupervised Mask-guided Annotated CT Image Synthesis with Minimum Manual Segmentations. IEEE Transactions on Medical Imaging.
 
-The implementation of MM-FID and MM-STD will be implemented on our synthetic image evaluation package.
+The implementation of MM-FID and MM-STD is implemented on our [synthetic image evaluation package](https://github.com/ayanglab/MedSynAnalyzer).
